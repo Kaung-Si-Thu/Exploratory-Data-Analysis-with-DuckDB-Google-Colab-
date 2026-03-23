@@ -137,7 +137,7 @@ Catalog Error: Cannot open database "...db" in read-only mode
 
 ## 👤 Author
 
-**[Your Name]**
+**[Kaung Si Thu]**
 Master’s Student & Researcher
 
 ---
